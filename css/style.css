@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#MusicWelcomeText{
+    background-image: url('images/music2.jpg'); /* This Is Music2 Photo */
+	background-attachment: fixed;
+	background-position: center left;
+	border: solid 0px;
+	border-color: none;
+    font-family: Comic Sans MS;
+    width: 1900px;
+    padding: 70px;
+    height: 19px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #3498db;
+    color: white;
+    font-size: 34px;
+}
+
+#AboutWebsite{
+	background-image: url('images/music1.jpg'); /* This Is Music1 Photo */
+	background-attachment: fixed;
+	background-position: center left;
+	border: solid 0px;
+	border-color: none;
+    font-family: Comic Sans MS;
+    width: 1900px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #3498db;
+    color: white;
+    padding: 25px;
+    font-size: 34px;
+}
+
+h1{
+    color: white;
+}
+
+img{
+	border: dashed 4px white;
+}
+
+#main{
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+
+}
+
+.purpleColor{
+	color: #9b59b6;
+	font-style: bold;
+}
+
+#imageID{
+    background-image:none;
+	background-attachment: none;
+	background-position: none;
+	background-color: red;
+}
